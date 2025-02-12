@@ -1,6 +1,6 @@
 # Exercise-02d-Scenes-And-Menus
 
-Exercise for MSCH-C220
+Exercise for Sean Billups
 
 A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
 
@@ -19,4 +19,4 @@ None
 None
 
 ## Created by
-Nathan Mishler
+Sean Billups
